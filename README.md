@@ -1,8 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Heron Felipe
-
-### Full Stack Developer | Software Engineering Graduate Student
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=180&section=header&text=Heron%20Felipe&fontColor=0A0A0A&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineering%20Graduate%20Student&descAlignY=55&descSize=18" alt="header"/>
 
 <p>
 Graduated in Systems Analysis and Development, currently pursuing a postgraduate degree in Software Engineering.<br>
@@ -18,24 +16,23 @@ I build web applications and enterprise solutions with a focus on clean code, sc
 <a href="mailto:devheron.contact@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FF7F" alt="Email"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=devheron&style=for-the-badge&color=00FF7F&labelColor=0A0A0A&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=devheron&style=for-the-badge&color=00FF7F&labelColor=0A0A0A&label=VIEWS" alt="Profile views"/>
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=45&text=About%20Me&fontColor=00FF7F&fontSize=24&fontAlignY=55" width="100%" alt="About Me"/>
 
-- 🎓 Graduated in **Systems Analysis and Development**
-- 📚 Currently pursuing a postgraduate degree in **Software Engineering**
-- 💼 Full Stack Developer working with enterprise applications and **ERP systems**
-- 🧩 Experience with complex business rules, legacy systems, and Brazilian fiscal solutions
-- 🚀 Interested in software architecture, scalable systems, and continuous learning
+- Graduated in **Systems Analysis and Development**
+- Currently pursuing a postgraduate degree in **Software Engineering**
+- Full Stack Developer working with enterprise applications and **ERP systems**
+- Experience with complex business rules, legacy systems, and Brazilian fiscal solutions
+- Interested in software architecture, scalable systems, and continuous learning
 
----
+<br>
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=45&text=Tech%20Stack&fontColor=00FF7F&fontSize=24&fontAlignY=55" width="100%" alt="Tech Stack"/>
 
 <div align="center">
 
@@ -71,37 +68,44 @@ I build web applications and enterprise solutions with a focus on clean code, sc
 
 </div>
 
----
 
-## 📊 GitHub Stats
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=45&text=GitHub%20Stats&fontColor=00FF7F&fontSize=24&fontAlignY=55" width="100%" alt="GitHub Stats"/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devheron&show_icons=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0A0A0A" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devheron&layout=compact&hide_border=true&title_color=00FF7F&text_color=FFFFFF&bg_color=0A0A0A" alt="Top Languages"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=devheron&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0A0A0A&cache_seconds=1800" alt="GitHub Stats"/>
+<br>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devheron&layout=compact&hide_border=true&langs_count=8&title_color=00FF7F&text_color=FFFFFF&bg_color=0A0A0A&cache_seconds=1800" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=devheron&hide_border=true&background=0A0A0A&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devheron&hide_border=true&background=0A0A0A&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F&sideLabels=FFFFFF&dates=888888&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+
+<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devheron&bg_color=0A0A0A&color=FFFFFF&line=00FF7F&point=00FF7F&area=true&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=45&text=Featured%20Projects&fontColor=00FF7F&fontSize=24&fontAlignY=55" width="100%" alt="Featured Projects"/>
 
 <div align="center">
 
-### 🚀 Featured Projects
-
 <a href="https://github.com/devheron/AuthenticatorJS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devheron&repo=PROJECT_1&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0A0A0A" alt="Project 1"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devheron&repo=AuthenticatorJS&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0A0A0A" alt="AuthenticatorJS"/>
 </a>
+<br>
 <a href="https://github.com/devheron/CargosVacanciasEF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devheron&repo=PROJECT_2&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0A0A0A" alt="Project 2"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devheron&repo=CargosVacanciasEF&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=FFFFFF&bg_color=0A0A0A" alt="CargosVacanciasEF"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=100&section=footer&reversal=true" alt="footer"/>
